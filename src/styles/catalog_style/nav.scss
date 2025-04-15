@@ -29,11 +29,11 @@
       height: 60px;
       line-height: 60px;
 
-      &:hover &-link:first-child {
+      &:hover {
         color: $main-color;
       }
 
-      &.is-active:first-child {
+      &.is-active {
         color: $main-color;
       }
 
